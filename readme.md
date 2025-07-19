@@ -6,7 +6,7 @@ A simple horse care application currently under development.
 
 ## Description
 
-SaddleSyn is a Java-based application designed to help horse caretakers manage horses and their feeding schedules efficiently. The project is actively being developed with the goal of providing a user-friendly yet functional solution for stable staff.
+SaddleSync is a Java-based application designed to help horse caretakers manage horses and their feeding schedules efficiently. The project is actively being developed with the goal of providing a user-friendly yet functional solution for stable staff.
 
 ---
 
