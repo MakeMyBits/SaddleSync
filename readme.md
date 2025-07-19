@@ -1,4 +1,4 @@
-# SaddleSyn
+# SaddleSync
 
 A simple horse care application currently under development.
 
